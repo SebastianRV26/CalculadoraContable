@@ -5,8 +5,8 @@
 Acerca de: Aplicación que simula el cierre de cajas, permite gestionar y contabilizar las monedas.
 
 **Integrantes:**
-*Olger Daniel Rojas.
-*Sebastián Rojas Vargas.
+* Olger Daniel Rojas.
+* Sebastián Rojas Vargas.
 
 Curso: Arquitectura de Computadores.
 II Semestre 2019.
