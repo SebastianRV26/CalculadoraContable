@@ -10,3 +10,4 @@ Acerca de: Aplicación que simula el cierre de cajas, permite gestionar y contabi
 
 Curso: Arquitectura de Computadores.
 II Semestre 2019.
+Profesor: Jorge Alfaro Velasco.
