@@ -10,7 +10,7 @@ Es necesario tener Visual Studio, y el componente de ".NET desktop development".
 
 **Nota:** Para poder ejecutar la solución se debe establecer 'PresentationLayer' como proyecto de inicio.
 
-**Integrantes:**
+### Integrantes:
 * Olger Daniel Rojas - @dani0105
 * Sebastián Rojas Vargas - @SebastianRV26
 
