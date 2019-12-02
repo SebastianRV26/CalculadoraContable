@@ -2,10 +2,10 @@
 
 Acerca de: Aplicación que simula el cierre de cajas, permite gestionar y contabilizar las monedas.
 
-# Empezando 
+## Empezando 
 Agregar la solucion del proyecto a su Visual Studio, dicha solucion se encuentra en "Datalayer" con el nombre de "Calculator.sln"
 
-**Prerequisitos**
+### Prerequisitos
 Es necesario tener Visual Studio, y el componente de ".NET desktop development".
 
 **Nota:** Para poder ejecutar la solución se debe establecer 'PresentationLayer' como proyecto de inicio.
